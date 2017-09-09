@@ -1,2 +1,6 @@
 .DS_Store
 .vscode
+.idea
+my_flask
+node_modules
+package-lock.json
